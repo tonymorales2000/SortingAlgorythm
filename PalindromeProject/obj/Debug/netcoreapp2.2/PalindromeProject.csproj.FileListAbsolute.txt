@@ -1,9 +1,0 @@
-C:\develop\SortingAlgorythm\PalindromeProject\bin\Debug\netcoreapp2.2\PalindromeProject.deps.json
-C:\develop\SortingAlgorythm\PalindromeProject\bin\Debug\netcoreapp2.2\PalindromeProject.dll
-C:\develop\SortingAlgorythm\PalindromeProject\bin\Debug\netcoreapp2.2\PalindromeProject.pdb
-C:\develop\SortingAlgorythm\PalindromeProject\obj\Debug\netcoreapp2.2\PalindromeProject.csprojAssemblyReference.cache
-C:\develop\SortingAlgorythm\PalindromeProject\obj\Debug\netcoreapp2.2\PalindromeProject.csproj.CoreCompileInputs.cache
-C:\develop\SortingAlgorythm\PalindromeProject\obj\Debug\netcoreapp2.2\PalindromeProject.AssemblyInfoInputs.cache
-C:\develop\SortingAlgorythm\PalindromeProject\obj\Debug\netcoreapp2.2\PalindromeProject.AssemblyInfo.cs
-C:\develop\SortingAlgorythm\PalindromeProject\obj\Debug\netcoreapp2.2\PalindromeProject.dll
-C:\develop\SortingAlgorythm\PalindromeProject\obj\Debug\netcoreapp2.2\PalindromeProject.pdb
