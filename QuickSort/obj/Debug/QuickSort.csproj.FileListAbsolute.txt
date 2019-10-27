@@ -1,0 +1,10 @@
+C:\develop\SortingAlgorythm\QuickSort\bin\Debug\QuickSort.dll
+C:\develop\SortingAlgorythm\QuickSort\bin\Debug\QuickSort.pdb
+C:\develop\SortingAlgorythm\QuickSort\bin\Debug\nunit.framework.dll
+C:\develop\SortingAlgorythm\QuickSort\bin\Debug\nunit.framework.pdb
+C:\develop\SortingAlgorythm\QuickSort\bin\Debug\nunit.framework.xml
+C:\develop\SortingAlgorythm\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\develop\SortingAlgorythm\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\develop\SortingAlgorythm\QuickSort\obj\Debug\QuickSort.csproj.CopyComplete
+C:\develop\SortingAlgorythm\QuickSort\obj\Debug\QuickSort.dll
+C:\develop\SortingAlgorythm\QuickSort\obj\Debug\QuickSort.pdb

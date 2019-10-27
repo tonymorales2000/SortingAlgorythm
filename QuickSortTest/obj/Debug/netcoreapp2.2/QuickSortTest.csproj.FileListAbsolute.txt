@@ -1,0 +1,17 @@
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSortTest.deps.json
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSortTest.runtimeconfig.json
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSortTest.runtimeconfig.dev.json
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSortTest.dll
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSortTest.pdb
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSort.dll
+C:\develop\SortingAlgorythm\QuickSortTest\bin\Debug\netcoreapp2.2\QuickSort.pdb
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.csprojAssemblyReference.cache
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.csproj.CoreCompileInputs.cache
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.AssemblyInfoInputs.cache
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.AssemblyInfo.cs
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.csproj.CopyComplete
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.dll
+C:\develop\SortingAlgorythm\QuickSortTest\obj\Debug\netcoreapp2.2\QuickSortTest.pdb

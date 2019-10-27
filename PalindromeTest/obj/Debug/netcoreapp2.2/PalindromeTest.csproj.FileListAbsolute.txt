@@ -1,0 +1,17 @@
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeTest.deps.json
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeTest.runtimeconfig.json
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeTest.runtimeconfig.dev.json
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeTest.dll
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeTest.pdb
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeProject.dll
+C:\develop\SortingAlgorythm\PalindromeTest\bin\Debug\netcoreapp2.2\PalindromeProject.pdb
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.csprojAssemblyReference.cache
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.csproj.CoreCompileInputs.cache
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.AssemblyInfoInputs.cache
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.AssemblyInfo.cs
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.csproj.CopyComplete
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.dll
+C:\develop\SortingAlgorythm\PalindromeTest\obj\Debug\netcoreapp2.2\PalindromeTest.pdb
